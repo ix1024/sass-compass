@@ -343,6 +343,16 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 
 .ell { -ms-text-overflow: ellipsis; text-overflow: ellipsis; white-space: nowrap; overflow: hidden; }
 
+.of-x-hidden { overflow-x: hidden; }
+
+.of-x-auto { overflow-x: auto; }
+
+.of-y-hidden { overflow-x: hidden; }
+
+.of-y-auto { overflow-y: auto; }
+
+.no-resize { resize: none; }
+
 .inline-block { display: inline-block; *display: inline; *zoom: 1; }
 
 .user-select { -moz-user-select: none; /* firefox */ -webkit-user-select: none; /* webkit */ -ms-user-select: none; /* IE10 */ -khtml-user-select: none; /* old */ user-select: none; }

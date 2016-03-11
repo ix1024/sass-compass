@@ -44,6 +44,26 @@
 	@include ell;
 }
 
+.of-x-hidden {
+	overflow-x: hidden;
+}
+
+.of-x-auto {
+	overflow-x: auto;
+}
+
+.of-y-hidden {
+	overflow-x: hidden;
+}
+
+.of-y-auto {
+	overflow-y: auto;
+}
+
+.no-resize {
+	resize: none;
+}
+
 .inline-block {
 	@include inlineBlock;
 }
